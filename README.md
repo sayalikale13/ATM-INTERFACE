@@ -2,7 +2,7 @@
 # Description:
 A simple Java application that simulates an ATM system with basic banking functionalities.
 
-#Features:
+# Features:
 1)User Authentication.
 
 2)Transaction History.
@@ -13,7 +13,7 @@ A simple Java application that simulates an ATM system with basic banking functi
 
 5)Command-Line Interface.
 
-#Technologies Used:
+# Technologies Used:
 1)Java Programming Language.
 
 2)Collections (ArrayList, HashMap).
