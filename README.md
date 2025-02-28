@@ -18,4 +18,4 @@ A simple Java application that simulates an ATM system with basic banking functi
 
 2)Collections (ArrayList, HashMap).
 
-3)Standard Input and Output (Scanner, System.
+3)Standard Input and Output (Scanner, System).
